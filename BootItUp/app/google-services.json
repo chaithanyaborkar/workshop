@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "919001605948",
+    "firebase_url": "https://bootitup-7072c.firebaseio.com",
+    "project_id": "bootitup-7072c",
+    "storage_bucket": "bootitup-7072c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919001605948:android:d01918a14961cfde",
+        "android_client_info": {
+          "package_name": "com.chaithanya.boot_it_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919001605948-g5gssnk2dkn37v380bhri49mf5fgl9hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaithanya.boot_it_up",
+            "certificate_hash": "97eb3751cf372125273d2148c873c71b688b433c"
+          }
+        },
+        {
+          "client_id": "919001605948-f3smjlapj7ho93hbf4fs8drugftv37lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbDxm4FUmZaqFK5Cb7hpcSArEoiiCMjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919001605948-f3smjlapj7ho93hbf4fs8drugftv37lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
